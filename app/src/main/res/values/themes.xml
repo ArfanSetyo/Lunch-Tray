@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     sebagai salah satu cara untuk melakukan penempatan tata letak yang nantinya akan digunakan sebagai User Interface untuk para user aplikasi Android
+-->
+<resources>
+
+    <style name="Theme.LunchTray" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/purple_700</item>
+    </style>
+</resources>
